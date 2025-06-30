@@ -24,7 +24,8 @@ function Skills() {
                   💼 Frameworks & Libraries
                 </h3>
                 <p className="text-lg text-gray-100">
-                  Flask, Django, Scikit-Learn, PyTorch, Keras, TensorFlow
+                  Flask, Django, Scikit-Learn, PyTorch, Keras, TensorFlow,
+                  React, Node, Express
                 </p>
               </div>
               <div className="bg-gray-900 p-8 rounded-xl border border-yellow-500 hover:border-yellow-400 transition-all duration-300 shadow-lg shadow-yellow-500/20">
@@ -32,32 +33,27 @@ function Skills() {
                   🎯 Tools & Platforms
                 </h3>
                 <p className="text-lg text-gray-100">
-                  Jupyter Notebook, Google Colab, AWS, Docker, Kubernetes
+                  Jupyter Notebook, Google Colab, AWS, Docker, Kubernetes, Git,
+                  Tableau, SAS Visual Analytics
                 </p>
               </div>
               <div className="bg-gray-900 p-8 rounded-xl border border-yellow-500 hover:border-yellow-400 transition-all duration-300 shadow-lg shadow-yellow-500/20">
                 <h3 className="text-3xl font-bold text-yellow-400 mb-6">
-                  🌐 Web Technologies
+                  🌐 Databases
                 </h3>
                 <p className="text-lg text-gray-100">
-                  React, Node.js, Express, MongoDB, MySQL, PostgreSQL
+                  MySQL, SQLite, MongoDB, PostgreSQL, InfluxDB, Redis, Pinecon
                 </p>
               </div>
               <div className="bg-gray-900 p-8 rounded-xl border border-yellow-500 hover:border-yellow-400 transition-all duration-300 shadow-lg shadow-yellow-500/20">
                 <h3 className="text-3xl font-bold text-yellow-400 mb-6">
-                  ☁️ Cloud & DevOps
+                  🤖 Related Coursework
                 </h3>
                 <p className="text-lg text-gray-100">
-                  AWS, Azure, Docker, Kubernetes, Jenkins, Git, Linux
-                </p>
-              </div>
-              <div className="bg-gray-900 p-8 rounded-xl border border-yellow-500 hover:border-yellow-400 transition-all duration-300 shadow-lg shadow-yellow-500/20">
-                <h3 className="text-3xl font-bold text-yellow-400 mb-6">
-                  🤖 Machine Learning
-                </h3>
-                <p className="text-lg text-gray-100">
-                  Deep Learning, Neural Networks, NLP, Computer Vision, Data
-                  Analysis
+                  Machine Learning, Data Visualization, Software Engineering,
+                  Artificial Intelligence, Distributed Systems and Cloud
+                  Computing, Algorithm, Deep Learning, Data Mining, Natural
+                  Language Processing, Network Security
                 </p>
               </div>
             </div>

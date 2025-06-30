@@ -31,17 +31,16 @@ function Experience() {
                     access controls.
                   </li>
                   <li>
-                    Implemented scalable access controls with JWT
-                    authentication, Role-Based Access Control (RBAC), and OAuth
-                    2.0 integration.
+                    Engineered and implemented scalable and fault-tolerant
+                    access control mechanisms leveraging JWT authentication,
+                    RBAC, and OAuth 2.0, ensuring robust user identity
+                    management across distributed cloud platforms.
                   </li>
                   <li>
-                    Designed and built RESTful APIs for user management, session
-                    handling, and audit logging with 99.9% uptime.
-                  </li>
-                  <li>
-                    Collaborated with cross-functional teams to integrate
-                    security features and optimize system performance.
+                    Collaborated with a cross-functional team using Agile/Scrum
+                    methodology to integrate unit and integration testing,
+                    achieving 92% test coverage and reducing production bugs by
+                    30%.
                   </li>
                 </ul>
                 <div className="flex flex-wrap gap-2 mt-4">
@@ -66,6 +65,56 @@ function Experience() {
               <div className="bg-gray-900 p-8 rounded-xl border border-yellow-500 hover:border-yellow-400 transition-all duration-300 shadow-lg shadow-yellow-500/20">
                 <div className="flex flex-col md:flex-row md:items-center md:justify-between mb-4">
                   <h3 className="text-3xl font-bold text-yellow-400">
+                    💻 Software Developer Intern
+                  </h3>
+                  <span className="text-yellow-300 font-semibold">
+                    May 2022 – August 2022
+                  </span>
+                </div>
+                <p className="text-xl text-yellow-300 mb-4">
+                  Cloud Optix Pvt. Ltd., India
+                </p>
+                <ul className="list-disc list-inside text-gray-100 space-y-2 text-lg">
+                  <li>
+                    Developed and integrated a time-series data ingestion
+                    pipeline using InfluxDB, Telegraf, and Python, improving
+                    IoT/system data retrieval speed by 50% and enabling
+                    real-time analytics for thousands of sensor inputs.
+                  </li>
+                  <li>
+                    Contributed to the design and deployment of a scalable
+                    backend prototype for a core analytics product, enhancing
+                    data persistence, monitoring, and visualization capabilities
+                    across edge devices.
+                  </li>
+                  <li>
+                    Implemented RESTful APIs to streamline data flow between
+                    embedded systems and cloud storage, resulting in a more
+                    modular and robust data infrastructure.
+                  </li>
+                </ul>
+                <div className="flex flex-wrap gap-2 mt-4">
+                  <span className="px-3 py-1 bg-yellow-500 text-black text-sm rounded-full">
+                    Python
+                  </span>
+                  <span className="px-3 py-1 bg-yellow-500 text-black text-sm rounded-full">
+                    Scikit-Learn
+                  </span>
+                  <span className="px-3 py-1 bg-yellow-500 text-black text-sm rounded-full">
+                    XGBoost
+                  </span>
+                  <span className="px-3 py-1 bg-yellow-500 text-black text-sm rounded-full">
+                    Pandas
+                  </span>
+                  <span className="px-3 py-1 bg-yellow-500 text-black text-sm rounded-full">
+                    Data Analysis
+                  </span>
+                </div>
+              </div>
+
+              <div className="bg-gray-900 p-8 rounded-xl border border-yellow-500 hover:border-yellow-400 transition-all duration-300 shadow-lg shadow-yellow-500/20">
+                <div className="flex flex-col md:flex-row md:items-center md:justify-between mb-4">
+                  <h3 className="text-3xl font-bold text-yellow-400">
                     🔬 Machine Learning Intern
                   </h3>
                   <span className="text-yellow-300 font-semibold">
@@ -77,23 +126,21 @@ function Experience() {
                 </p>
                 <ul className="list-disc list-inside text-gray-100 space-y-2 text-lg">
                   <li>
-                    Built and deployed a multi-label classification model using
-                    Scikit-Learn and XGBoost for predictive ticket
-                    categorization.
+                    Improved maintenance operations across a network of 3
+                    million machines by designing a multi-label classification
+                    model using Scikit-Learn, Pandas, and XGBoost, achieving 92%
+                    accuracy in categorizing machine health and failure
+                    frequency.
                   </li>
                   <li>
-                    Automated ticket resolution pipelines, reducing average
-                    resolution time by 70% and improving customer satisfaction
-                    scores.
+                    Automated ticket resolution pipelines using CRM feature
+                    extraction, cutting issue resolution time by 70% and
+                    enhancing team efficiency.
                   </li>
                   <li>
-                    Performed comprehensive data analysis and feature
-                    engineering on large datasets (100K+ records) to improve
-                    model accuracy.
-                  </li>
-                  <li>
-                    Implemented data preprocessing pipelines and model
-                    evaluation frameworks using Python and pandas.
+                    Enhanced customer satisfaction by proactively flagging
+                    failing assets, enabling predictive maintenance and reducing
+                    downtime across national infrastructure systems.
                   </li>
                 </ul>
                 <div className="flex flex-wrap gap-2 mt-4">
